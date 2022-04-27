@@ -11,3 +11,5 @@ puts "The price of a " + item1[:name] + " is " + item1[:price_cents].to_s
 puts "The price of a #{item1[:name]} is #{item1[:price_cents]}"
 puts "The price of an #{item4[0]} is #{item4[2]}"
 
+
+
