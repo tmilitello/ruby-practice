@@ -13,3 +13,10 @@ puts "The price of an #{item4[0]} is #{item4[2]}"
 
 
 
+
+
+Exercise:
+Open the store_item.rb file you created from the previous lesson.
+Create a new module in your store item.
+Create separate files for each of your classes and modules.
+Create a separate main.rb file to demonstrate how each class and module work.
